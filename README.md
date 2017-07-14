@@ -6,4 +6,4 @@ We also include the modified CosmoMC modules and associated data above as part o
 
 There is more specific information in the readme file included in the tarballs.
 
-Please feel free to contact us at sjoudaki@swin.edu.au if you have any questions.
+Please feel free to contact us at shahab.joudaki@physics.ox.ac.uk if you have any questions.
