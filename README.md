@@ -6,4 +6,6 @@ We also include the modified CosmoMC modules and associated data above as part o
 
 There is more specific information in the readme file included in the tarballs.
 
+We note that this fitting pipeline has been included in CosmoLSS (https://github.com/sjoudaki/CosmoLSS), which is the code that will be maintained and further expanded.
+
 Please feel free to contact us at shahab.joudaki@physics.ox.ac.uk if you have any questions.
